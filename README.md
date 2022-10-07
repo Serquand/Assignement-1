@@ -1,8 +1,8 @@
 # Assignement-1
 
-Hello, welcome to my **Assignement 1**. This repository is just a class introduction to _Github_, _Git_, _Node_ and _Express_ but will probably contains ==our future project==.
+Hello, welcome to my **Assignement 1**. This repository is just a class introduction to _Github_, _Git_, _Node_ and _Express_ but will probably contains <u>our future project.</u>
 
-==Now, you'll talk you about our project==.
+<u>Now, you'll talk you about our project</u>.
 So, your project, simply called **Battleship**, will be an online battleship using Socket.io for handling Web Sockets and Stripe for Payment.
 You'll also use Vue, Express, Sequelize ORM, and a lot of other lib. 
 
